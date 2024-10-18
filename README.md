@@ -1,4 +1,4 @@
-This repository contains the code for the paper *Computing Nash Equilibrium in Two-team Zero-sum Games by NashConv Descent*. 
+This repository contains the code for the paper *Computing Approximate Nash Equilibrium in Two-team Zero-sum Games by NashConv Descent*. 
 
 # Usage
 
@@ -26,11 +26,10 @@ This repository contains the code for the paper *Computing Nash Equilibrium in T
 
 Citation information for this project will be added once the related paper is published.
 
-
 # Acknowledgement
 
 The code is built on https://github.com/tansey/pycfr. We have great appreciation for Wesley Tansey's work.
 
 # Contact
 
-If you have any questions about this repo or paper, feel free to leave an issue or email zengzekeng2022@ia.ac.cn.
+If you have any question about this repo or paper, feel free to leave an issue or email zengzekeng2022@ia.ac.cn.
