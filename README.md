@@ -1,4 +1,4 @@
-This repository contains the code for the paper *Computing Nash Equilibrium in Two-team Zero-sum Games by NashConv Descent*. This work represents the first algorithm that empirically achieves approximate Nash equilibrium in extensive-form two-team zero-sum games.
+This repository contains the code for the paper *Computing Nash Equilibrium in Two-team Zero-sum Games by NashConv Descent*. 
 
 # Usage
 
