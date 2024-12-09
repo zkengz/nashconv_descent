@@ -24,11 +24,15 @@ This repository contains the code for the paper *Computing Approximate Nash Equi
     
 # Citation
 
-Citation information for this project will be added once the related paper is published.
+The related paper has been accepted by ICONIP2024. The citation information is as follows.
+
+> Zekeng Zeng, Youzhi Zhang, Peipei Yang, Mingyi Zhang, Junge Zhang. Computing Approximate Nash Equilibrium in Two-team Zero-sum Games by NashConv
+Descent. International Conference on Neural Information Processing(ICONIP), 2024.
+
 
 # Acknowledgement
 
-The code is built on https://github.com/tansey/pycfr. We have great appreciation for Wesley Tansey's work.
+The code is built on https://github.com/tansey/pycfr. We greatly appreciate Wesley Tansey's work.
 
 # Contact
 
