@@ -17,6 +17,7 @@ def sum_dict(dict1, dict2, weights):
 
 def policy_gradient_descent(strategy, grad, lr):
     for infoset in grad.keys():
+        illegal = None
         for action in range(len(grad[infoset])):
             if grad[infoset][action] == None:
                 illegal = action
